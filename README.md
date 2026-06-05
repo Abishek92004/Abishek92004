@@ -2,12 +2,13 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Abishek+S+%F0%9F%91%8B;AI%2FML+Practitioner+%7C+Deep+Learning+Engineer;Building+Agentic+AI+%26+Autonomous+Systems;NLP+%7C+Computer+Vision+%7C+Reinforcement+Learning)](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Abishek+S+%F0%9F%91%8B;AI%2FML+Practitioner+%7C+Deep+Learning+Engineer;Building+Agentic+AI+%26+Autonomous+Systems;NLP+%7C+Computer+Vision+%7C+Reinforcement+Learning)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Abishek+S+%F0%9F%91%8B;AI%2FML+Practitioner+%7C+Deep+Learning+Engineer;Building+Agentic+AI+%26+Autonomous+Systems;NLP+%7C+Computer+Vision+%7C+Reinforcement+Learning)](https://readme-typing-svg.demolab.com)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=AbishekS&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/AbishekS)
+[![Profile Views](https://komarev.com/ghpvc/?username=Abishek92004&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/Abishek92004)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abishek-s)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-70a5fd?style=flat-square&logo=vercel&logoColor=white)](https://yourportfolio.dev)
 [![Email](https://img.shields.io/badge/Email-abishek92004@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:abishek92004@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-+91%209585289813-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+919585289813)
+[![GitHub](https://img.shields.io/badge/GitHub-AbishekS-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AbishekS)
 
 </div>
 
@@ -29,13 +30,14 @@ class AbishekS:
         self.stack = [
             "PyTorch", "TensorFlow", "Transformers",
             "OpenAI Gym", "LangGraph", "Streamlit",
-            "OpenCV", "FastAPI", "n8n"
+            "OpenCV", "FastAPI", "n8n", "UiPath"
         ]
 
         self.currently_learning = [
             "Physics-Informed Neural Networks (PINNs)",
             "Advanced Agentic AI Architectures",
-            "Sport Performance Analytics"
+            "Sport Performance Analytics",
+            "Adversarial ML & Robustness"
         ]
 
         self.fun_fact = (
@@ -70,7 +72,7 @@ print(me.motto())
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=flat-square&logo=xgboost&logoColor=white)
 ![GANs](https://img.shields.io/badge/GANs%20(Pix2Pix%2FPatchGAN)-8A2BE2?style=flat-square&logo=pytorch&logoColor=white)
 ![GNNs](https://img.shields.io/badge/GNNs-5C3EE8?style=flat-square&logo=graphql&logoColor=white)
@@ -81,15 +83,18 @@ print(me.motto())
 ![BERT](https://img.shields.io/badge/BERT-FF6F00?style=flat-square&logo=google&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Intent Classification](https://img.shields.io/badge/Intent%20Classification-8A2BE2?style=flat-square&logo=huggingface&logoColor=white)
 
 **Reinforcement Learning**
 
 ![OpenAI Gym](https://img.shields.io/badge/OpenAI%20Gym-0081A5?style=flat-square&logo=openai&logoColor=white)
 ![Q-Learning](https://img.shields.io/badge/Q--Learning-BF91F3?style=flat-square&logo=databricks&logoColor=white)
+![MDP](https://img.shields.io/badge/MDP%20Modeling-5C3EE8?style=flat-square&logo=databricks&logoColor=white)
 
 **Computer Vision**
 
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Image Segmentation](https://img.shields.io/badge/Image%20Segmentation-0081A5?style=flat-square&logo=opencv&logoColor=white)
 
 **Automation & Agentic AI**
 
@@ -104,11 +109,11 @@ print(me.motto())
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 ![KNIME](https://img.shields.io/badge/KNIME-FFC300?style=flat-square&logo=knime&logoColor=black)
 
 ---
-
 
 ## 💼 Work Experience
 
@@ -156,7 +161,7 @@ print(me.motto())
 
 | Paper | Venue | Tech |
 |:------|:------|:-----|
-| **RL-Based Adaptive Sampling for Physics-Informed Neural Networks** — Proposed RL-driven adaptive collocation point sampling for PINNs, dynamically concentrating training in high-residual regions | ✅ Accepted @ **4th ICICCS** (International Conference on Integrated Circuits and Communication Systems) | PyTorch · RL · PINNs |
+| **RL-Based Adaptive Sampling for Physics-Informed Neural Networks** — Proposed RL-driven adaptive collocation point sampling for PINNs, dynamically concentrating training in high-residual regions for improved convergence and solution accuracy | ✅ Accepted @ **4th ICICCS 2026** (International Conference on Integrated Circuits and Communication Systems) | PyTorch · RL · PINNs |
 
 </div>
 
@@ -171,7 +176,7 @@ print(me.motto())
 | 🥇 | **Rotary Youth Leadership — Best Performer Award** | Recognized for outstanding leadership contributions |
 | 🔬 | **ISRO Hackathon 2026** | Participated in India's prestigious space technology challenge |
 | 💡 | **Neoverse Hackathon 2026** | Participated in cutting-edge innovation challenge |
-| 🎤 | **Ideathon '24 Organizer — Anokha Tech Fest** | Led end-to-end organization of the flagship ideation event |
+| 🎤 | **Ideathon '24 Organizer — Anokha Tech Fest** | Led end-to-end organization of the flagship ideation event at Amrita |
 | 🎭 | **Captain — University Dance Team (Natya Sudha)** | Led the university's premier classical dance troupe |
 | 🎉 | **Central Coordinator — Amritotsavam Cultural Fest** | Coordinated one of the largest cultural events at Amrita |
 | 🧪 | **MultiMalNet — 99.65% Accuracy** | First visual + graph + semantic fusion for malware classification; 45% error reduction over prior SOTA |
@@ -210,6 +215,21 @@ print(me.motto())
 🔐 Adversarial ML & Robustness
    → FGSM · PGD attacks · Certified defenses · Robustness benchmarks
 ```
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+![Abishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abishek92004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abishek92004&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Abishek92004&theme=tokyonight&hide_border=true)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abishek92004&theme=tokyo-night&hide_border=true)
+
+</div>
 
 ---
 
